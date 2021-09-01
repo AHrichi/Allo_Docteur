@@ -1,0 +1,7 @@
+
+.profile-card {
+background: rgb(50, 157, 156);
+    background: -webkit-linear-gradient(to right, rgb(50, 157, 156), #ffc371);
+    background: linear-gradient(to right, rgb(50, 157, 156), #ffc371);
+    min-height: 100vh
+    ;}

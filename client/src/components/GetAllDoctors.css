@@ -1,0 +1,8 @@
+.alldoctor{
+    background: rgb(176, 180, 180);
+    background: -webkit-linear-gradient(to right, rgb(50, 157, 156), #e26479);
+    background: linear-gradient(to right, rgb(50, 157, 156), #e26479);
+    min-height: 100vh
+    ;
+    margin: 10px 10px;
+}
